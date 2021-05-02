@@ -35,10 +35,6 @@
   ],
   "author": "udacimak <udacimak@tutanota.com>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/udacimak/udacimak/issues"
-  },
-  "homepage": "https://github.com/udacimak/udacimak#readme",
   "preferGlobal": true,
   "bin": {
     "udacimak": "./lib/index.js"
